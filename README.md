@@ -47,9 +47,3 @@ Upload Invoice → OCR Recognition → Classification → Learning → Analysis 
 
 ## 📷 Demo
 <img width="429" height="494" alt="image" src="https://github.com/user-attachments/assets/f9da0775-edf5-40bb-9e98-91d027281f77" />
-
----
-
-## 👨‍💻 Author
-HUANG, CHUNG-AN  
-National Quemoy University 
